@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-01-04T10:14:46.576+07:00
+  initializedAtString: 2021-01-03T21:47:27.200+07:00
+  log:
+  - commitID: 023924e7bf9de41f2352cc7a1e2e279f0ca25862
+    mergeA: 
+    mergeB: 
+    authorName: yuuoa
+    authorEmail: alwanandika@gmail.com
+    commitEmail: alwanandika@gmail.com
+    commitName: yuuoa
+    summary: first commit
+    description: 
+    timeString: 2021-01-04T01:21:50.000+07:00
+    commitTimeString: 2021-01-04T01:21:50.000+07:00
+    changes:
+    - path: README.md
+      fullPath: D:\Projekt\unity\gamee\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
